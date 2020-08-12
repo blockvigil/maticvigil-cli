@@ -75,7 +75,7 @@ If you are already signed up [on the Web UI with a local wallet](https://maticvi
 
 Use the `Export Key` option from the `Settings` dropdown to download the `settings.json`
 
-![export MaticVigil settings from Web UI screenshot](https://maticvigil.com/docs/assets/cli/exportsettings.png)
+![export MaticVigil settings from Web UI screenshot](https://maticvigil.com/assets/images/exportsettings-50b1906919ba4236116dff3d89b431eb.png)
 
 Next run the following command on your terminal to import these settings
 
