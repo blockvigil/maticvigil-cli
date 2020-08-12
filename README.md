@@ -7,7 +7,7 @@ The guide will introduce you to the MaticVigil API endpoints with the help of a 
 
 ## Binary Installation
 
-Download the [Linux](https://mainnet.maticvigil.com/downloads/mv-cli-linux-050ea36f.zip "Linux Zip File") or [Mac OSX](https://mainnet.maticvigil.com/downloads/mv-cli-osx-050ea36f.zip "Mac OSX Zip File") binary. You can unzip from a terminal with the following command.
+Download the [Linux](https://github.com/blockvigil/maticvigil-cli/releases/download/v0.3.1/mv-cli-linux.zip "Linux Zip File") or [Mac OSX](https://github.com/blockvigil/maticvigil-cli/releases/download/v0.3.1/mv-cli-osx.zip "Mac OSX Zip File") binary. You can unzip from a terminal with the following command.
 `unzip /path/to/mv-cli-<platform>.zip`
 
 Most people would keep mv-cli in their primary user folder or set an alias for easy command-line access.
