@@ -12,7 +12,7 @@ matrix:
       osx_image: xcode10.2
       language: shell
 
-install: pip3 install -r requirements.txt --upgrade pip  # all three OSes agree about 'pip3'
+install: pip3 install -r requirements.txt --upgrade pip --upgrade setuptools  # all three OSes agree about 'pip3'
 
 script:
   - python3 --version || python --version;
@@ -22,7 +22,7 @@ script:
   - mv dist/mv-cli maticvigil-cli/
   - chmod +x maticvigil-cli/mv-cli
   - cp README.md maticvigil-cli/
-  - ./maticvigil-cli/mv-cli
+  - ./maticvigil-cli/mv-cli -h
   - zip -r mv-cli-${TRAVIS_OS_NAME}.zip maticvigil-cli
   - mv mv-cli-${TRAVIS_OS_NAME}.zip dist/
   - ls dist/
