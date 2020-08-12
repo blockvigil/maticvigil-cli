@@ -89,9 +89,7 @@ mv-cli importsettings path/to/settings.json
 ./mv-cli importsettings path/to/settings.json
 ```
 
-And that's it! Your CLI tool is now ready for further use. The GIF below demonstrates these instructions in action.
-
-![](https://maticvigil.com/docs/assets/cli/ev_cli_importsettings.gif)
+And that's it! Your CLI tool is now ready for further use.
 
 ## Get your MaticVigil account information
 
