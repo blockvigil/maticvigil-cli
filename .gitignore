@@ -1,0 +1,10 @@
+.DS_Store
+.python-version
+.idea
+build
+dist
+__pycache__
+settings.json
+*.egg-info/
+*.spec
+.pytest_cache

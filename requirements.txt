@@ -1,0 +1,13 @@
+eth-utils == 1.6.1
+requests == 2.22.0
+click == 7.0
+dynaconf == 2.0.3
+redis == 3.2.1
+eth-account == 0.4.0
+PyInstaller==3.6
+pytest==4.4.1
+pytest-click==0.3
+solidity_parser==0.0.7
+tenacity==6.2.0
+antlr4-python3-runtime>=4.7,<4.8
+colorama==0.4.3
