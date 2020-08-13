@@ -91,6 +91,16 @@ mv-cli importsettings path/to/settings.json
 
 And that's it! Your CLI tool is now ready for further use.
 
+The following GIF demonstrates the process of
+
+* downloading the CLI binary
+
+* exporting your MaticVigil account from the web UI
+
+* importing the above in the CLI
+
+![MaticVigil CLI import settings](https://maticvigil.com/assets/images/mv_cli_importsettings_540-a624a4e165c88ebbae42a497bac12304.gif)
+
 ## Get your MaticVigil account information
 
 Once initialized, you can find information related to your MaticVigil account through the CLI tool.
